@@ -18,7 +18,7 @@ To install the necessary dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Supported Languages
 
